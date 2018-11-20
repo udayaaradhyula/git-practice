@@ -1,1 +1,2 @@
-This is text file E
+Editing E here
+My edit to E
