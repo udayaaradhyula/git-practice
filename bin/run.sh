@@ -1,5 +1,5 @@
 #!/bin/bash
-sss
+
 DATA=ascii.data
 line_length=$(cat $DATA | awk '{print length}' | sort -nr | head -1)
 
