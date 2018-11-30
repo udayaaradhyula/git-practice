@@ -1,1 +1,2 @@
 This is text file E
+with conflicts
